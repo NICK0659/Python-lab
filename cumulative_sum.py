@@ -1,0 +1,1 @@
+#wap to find the cumulative sum of the list 
